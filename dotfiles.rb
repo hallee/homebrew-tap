@@ -1,4 +1,4 @@
-class Hal < Formula
+class Dotfiles < Formula
   homepage "https://hal.codes"
  version "0.0.1"
   url "https://github.com/hallee/dotfiles/archive/0.0.1.tar.gz"
