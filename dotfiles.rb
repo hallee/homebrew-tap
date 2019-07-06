@@ -2,7 +2,7 @@ class Dotfiles < Formula
   homepage "https://hal.codes"
   version "0.0.4"
   url "https://github.com/hallee/dotfiles/archive/0.0.4.tar.gz"
-  sha256 "5d8b58b654e30d09eb54b9021e922c655d3c815fbcd4e23e3afe25489297b02d"
+  sha256 "cbd579d042d7253a7dba97d72d4574644423fb5d3a49615be65c0a0e6277bcc2"
 
   def install
     bin.install "dotfiles"
