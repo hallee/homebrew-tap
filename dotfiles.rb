@@ -1,8 +1,8 @@
 class Dotfiles < Formula
   homepage "https://hal.codes"
-  version "1.0.2"
-  url "https://github.com/hallee/dotfiles/archive/1.0.2.tar.gz"
-  sha256 "203cca6097e893230b1bcae34ee70aa64a47efb6036b4c45f944ab0650f76b09"
+  version "1.0.3"
+  url "https://github.com/hallee/dotfiles/archive/1.0.3.tar.gz"
+  sha256 "9e1b49c9d49b0fd53a55fe7f925f13892f4d0922715a11d64da928a2f595eaac"
 
   def install
     bin.install "Release/dotfiles"
